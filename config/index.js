@@ -28,6 +28,9 @@ export const config = {
       {name: '张运征同学:', id: "oBhNR529EqTpM3EgAyEWywsGuKRw"}, 
       {name: '张同学:', id: "oBhNR5wKra0ysBFOf5rFVJB7AvPw"},  
       {name: '丽丽荣', id: "oBhNR54qQLD3-jQX-3eKbH2222Lg"}, 
+      {name: '小南', id: "oBhNR58twt6Hd4_YCIK-HoQ9lXlg"}, 
+      {name: '小王', id: "oBhNR51SR7AnatjH3FIOB7wG_pOE"}, 
+      
       // {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
