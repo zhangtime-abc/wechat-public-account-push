@@ -30,7 +30,8 @@ export const config = {
       {name: '丽丽荣', id: "oBhNR54qQLD3-jQX-3eKbH2222Lg"}, 
       {name: '小南', id: "oBhNR58twt6Hd4_YCIK-HoQ9lXlg"}, 
       {name: '小王', id: "oBhNR51SR7AnatjH3FIOB7wG_pOE"}, 
-      
+      {name: '鸭腿饭', id: "oBhNR5xqMTUk6RZEarlqS74cpI5s"},
+       {name: '.', id: "oBhNR503fhUcmfE2hjaKoNi0vi5I"},
       // {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
